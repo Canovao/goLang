@@ -1,2 +1,2 @@
 # goLang
-Repository to archive all my goLang fucking insane Godly code
+Repository to archive all my goLang insane Godly code
